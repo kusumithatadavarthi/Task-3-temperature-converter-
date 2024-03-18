@@ -1,0 +1,24 @@
+p{
+  text-align: center;
+  font-family: fantasy;
+  background-color: aquamarine;
+  font-size: 50px;
+}
+body{
+  background-color: rgb(136, 189, 228);
+  opacity: 76;
+
+}
+input{
+  padding: 10px;
+  display: block;
+  margin-top:10px ;
+  
+}
+button{
+  width: 150px;
+  height:30px;
+}
+
+
+
